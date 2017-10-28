@@ -16,6 +16,7 @@
 ----
 
 ### Amazon Web Service
-- :movie_camera: [300원에 2백만뷰 소화하기](https://youtu.be/5ky-35i1FkQ):kr: 
+- :movie_camera: [300원에 2백만뷰 소화하기](https://youtu.be/5ky-35i1FkQ) [08:52] :kr: 
+- :movie_camera: [Amazon Lex를 통한 쉽고 빠른 음성 및 텍스트 기반 챗봇 만들기](https://youtu.be/HYiA7M2OvP4) [45:32] :kr:
 - :globe_with_meridians:  
 
