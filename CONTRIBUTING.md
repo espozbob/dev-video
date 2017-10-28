@@ -68,12 +68,12 @@
 한번 PR에 한 가지 아이템을 추가하는 것이 이와 관련된 사람들과 함께 작업하기에 훨씬 용이합니다.
 </p></details>
 
-<details><summary>추가하고자 하는 정보와 관련된 이슈를 생성하지 마세요. 대신 Pull Request 생성하세요!</summary><p>
+<details><summary>추가하고자 하는 정보와 관련된 이슈를 생성하지 마세요. 대신 Pull Request를 생성하세요!</summary><p>
 
 Pull Request 화면에서 추가할 정보에 관해 논의하거나 결정하는 것이 훨씬 쉽고 편합니다.
 </p></details>
 
-<details><summary>Use consistent set of resource type emoji</summary><p>
+<details><summary>추가하는 정보의 종류를 지정하기 위해 아래의 아이콘들을 사용해주세요.</summary><p>
 
 🎥 - 영상/발표와 관련된 Prefix 아이콘
 🇰🇷 - 한국어/한글로 제작된 영상 Suffix 아이콘  
