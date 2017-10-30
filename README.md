@@ -16,8 +16,11 @@
 ----
 
 ### Amazon Web Service
-- :movie_camera: [300원에 2백만뷰 소화하기](https://youtu.be/5ky-35i1FkQ) [08:52] :kr: 
-- :movie_camera: [Amazon Lex를 통한 쉽고 빠른 음성 및 텍스트 기반 챗봇 만들기](https://youtu.be/HYiA7M2OvP4) [45:32] :kr:
-- :movie_camera: [콘테이너 운영을 위한 Amazon EC2 Container Service(ECS) 집중 분석](https://youtu.be/mb091WRa_y0) [54:02] :kr:
-- :globe_with_meridians:  
+- :movie_camera: [300원에 2백만뷰 소화하기](https://youtu.be/5ky-35i1FkQ) 2017 [08:52] :kr: 
+- :movie_camera: [Amazon Lex를 통한 쉽고 빠른 음성 및 텍스트 기반 챗봇 만들기](https://youtu.be/HYiA7M2OvP4) 2017 [45:32] :kr:
+- :movie_camera: [콘테이너 운영을 위한 Amazon EC2 Container Service(ECS) 집중 분석](https://youtu.be/mb091WRa_y0) 2017 [54:02] :kr:
+
+## JS
+- :movie_camera: [React: Rethinking best practices]() 2013 [29:31] :globe_with_meridians: 
+
 
