@@ -21,6 +21,12 @@
 - :movie_camera: [콘테이너 운영을 위한 Amazon EC2 Container Service(ECS) 집중 분석](https://youtu.be/mb091WRa_y0) 2017 [54:02] :kr:
 
 ## JS
-- :movie_camera: [React: Rethinking best practices]() 2013 [29:31] :globe_with_meridians: 
+- :movie_camera: [React: Rethinking best practices]() 2013 [29:31] :globe_with_meridians: <details><summary>요약</summary><p>
+  * 프론트엔드 개발에 있어서 디스플레이 로직과 마크업은 매우 긴밀하게 커플링 되어 있을 수 밖에 없다. <br>
+  * 따라서 템플릿과 코드를 분리하는 것은 기술적인 이슈이지 결코 각가의 개별적인 관심사끼리 묶어서 유지보수의 편리성을 추구하기 위한 필수조건이 아니다.<br>
+  * component와 해당 component의 디스플레이 로직은 매우 밀접하게 엮여있으나 component 상호간에는 매우 독립적이다.<br>
+  * component 내부에는 디스플레이 로직 이외의 코드는 넣지 않아야한다.
+                                                                                 
+</p></details>
 
 
